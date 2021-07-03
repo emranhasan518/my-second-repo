@@ -1,0 +1,10 @@
+h2{
+    color: red;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h1{
+    margin: 10px;
+    padding: 10px;
+}
